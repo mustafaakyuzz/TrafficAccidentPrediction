@@ -9,14 +9,13 @@ Bu proje, trafik kazalarının meydana gelme olasılığını tahmin etmek için
 - Trafik kazalarının olasılığını tahmin etmek için tespit edilen en iyi modelin eğitilmesi  
 - Tahmin sonuçlarının değerlendirilmesi ve doğruluk analizi  
 
-## Veri Kümesi Hakkında
+## Veriseti Hakkında
 
 **Traffic Accident Prediction Dataset**  
 Trafik kazalarının meydana gelme olasılığını tahmin etmek için çeşitli faktörlere dayalı olarak oluşturulmuş bir veri kümesidir. Bu veri kümesi, yol koşulları, sürücü davranışı ve trafik durumları gibi değişkenleri içerir.
 
 ### Özellikler
 
-```plaintext
 1. Weather (Hava Durumu): Havanın trafik kazalarına etkisi.
    - Clear: Açık hava.
    - Rainy: Yağmurlu.
