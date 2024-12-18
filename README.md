@@ -2,7 +2,7 @@
 
 Bu proje, trafik kazalarının meydana gelme olasılığını tahmin etmek için veri analizi ve makine öğrenimi tekniklerini kullanan bir Python uygulamasıdır.
 
-## Özellikler
+## Adımlar
 
 - Trafik kazası verilerinin analizi ve görselleştirilmesi  
 - Farklı makine öğrenimi algoritmalarının karşılaştırılması  
