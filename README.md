@@ -74,6 +74,7 @@ This dataset is designed to predict the likelihood of traffic accidents based on
     - Artificial Light: Roads illuminated with streetlights.
     - No Light: Unlit roads, typically during the night.
 
+---
 
 # Trafik Kazası Tahmini
 
